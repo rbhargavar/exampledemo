@@ -1,0 +1,5 @@
+1.Study
+2.Eat
+3.Code
+4.Test
+5.Validate
